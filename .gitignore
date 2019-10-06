@@ -1,0 +1,5 @@
+raw/*
+data/*
+
+.ipynb_checkpoints/
+.vscode/
