@@ -1,5 +1,10 @@
 raw/*
-data/*
+**/data/*
+**/bin/
+**/model/
 
 .ipynb_checkpoints/
 .vscode/
+
+*.h5
+*.py[cd]
